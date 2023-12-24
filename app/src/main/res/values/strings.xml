@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabMoviesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search 🔍</string>
+    <string name="please_enter_query">Please enter a query</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_director">Movie Director</string>
+    <string name="details">Show Details 📃</string>
+    <string name="add_movie">Add a New Movie 🎬</string>
+    <string name="cancel">Cancel 🗑️</string>
+</resources>
